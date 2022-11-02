@@ -32,6 +32,7 @@
 # База данных
 ![image](https://user-images.githubusercontent.com/115613576/199512221-582a79ce-f663-4b95-bff7-8c267ad1e699.png)
 Описание к базе:
+
 Таблица employeer содержит основную информацию о сотруднике:
    - id — pk
    - ФИО
