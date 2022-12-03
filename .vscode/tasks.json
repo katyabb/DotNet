@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/EmployeesAndSalaries/EmployeesAndSalaries.csproj",
+                "${workspaceFolder}/Employees.WebAPI/Employees.WebAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/EmployeesAndSalaries/EmployeesAndSalaries.csproj",
+                "${workspaceFolder}/Employees.WebAPI/Employees.WebAPI.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/EmployeesAndSalaries/EmployeesAndSalaries.csproj"
+                "${workspaceFolder}/Employees.WebAPI/Employees.WebAPI.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
