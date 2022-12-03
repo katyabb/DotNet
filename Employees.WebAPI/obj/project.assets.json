@@ -8347,11 +8347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\универ\\dot net\\DotNet\\Employees.WebAPI\\Employees.WebAPI.csproj",
+      "projectUniqueName": "E:\\универ\\dotnet\\DotNet\\Employees.WebAPI\\Employees.WebAPI.csproj",
       "projectName": "Employees.WebAPI",
-      "projectPath": "E:\\универ\\dot net\\DotNet\\Employees.WebAPI\\Employees.WebAPI.csproj",
+      "projectPath": "E:\\универ\\dotnet\\DotNet\\Employees.WebAPI\\Employees.WebAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\универ\\dot net\\DotNet\\Employees.WebAPI\\obj\\",
+      "outputPath": "E:\\универ\\dotnet\\DotNet\\Employees.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8372,11 +8372,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\универ\\dot net\\DotNet\\Employees.Entities\\Employees.Entities.csproj": {
-              "projectPath": "E:\\универ\\dot net\\DotNet\\Employees.Entities\\Employees.Entities.csproj"
+            "E:\\универ\\dotnet\\DotNet\\Employees.Entities\\Employees.Entities.csproj": {
+              "projectPath": "E:\\универ\\dotnet\\DotNet\\Employees.Entities\\Employees.Entities.csproj"
             },
-            "E:\\универ\\dot net\\DotNet\\Employees.Repository\\Employees.Repository.csproj": {
-              "projectPath": "E:\\универ\\dot net\\DotNet\\Employees.Repository\\Employees.Repository.csproj"
+            "E:\\универ\\dotnet\\DotNet\\Employees.Repository\\Employees.Repository.csproj": {
+              "projectPath": "E:\\универ\\dotnet\\DotNet\\Employees.Repository\\Employees.Repository.csproj"
             }
           }
         }

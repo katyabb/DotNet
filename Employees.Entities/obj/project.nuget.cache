@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5kr6MIAHFP4rBCCN6xzHV+3UCfagcQylbZm/5nqejgzKpDR5tLuMQiNKo5LGaMZfOc6Ms1T2SUGRqMgi0UAyhA==",
+  "dgSpecHash": "9PcMD9uaCZJowuHXTb9vfevKC9StLqDGeCWmqMBkPRIcSmKvYcRQ12tOCY8YWmEx75GHovJnJiarrXgoywBv7w==",
   "success": true,
-  "projectFilePath": "E:\\универ\\dot net\\DotNet\\Employees.Entities\\Employees.Entities.csproj",
+  "projectFilePath": "E:\\универ\\dotnet\\DotNet\\Employees.Entities\\Employees.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

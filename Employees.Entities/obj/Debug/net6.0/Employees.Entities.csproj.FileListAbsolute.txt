@@ -12,3 +12,17 @@ E:\универ\dot net\DotNet\Employees.Entities\obj\Debug\net6.0\refint\Employ
 E:\универ\dot net\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.pdb
 E:\универ\dot net\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.genruntimeconfig.cache
 E:\универ\dot net\DotNet\Employees.Entities\obj\Debug\net6.0\ref\Employees.Entities.dll
+E:\универ\dotnet\DotNet\Employees.Entities\bin\Debug\net6.0\Employees.Entities.deps.json
+E:\универ\dotnet\DotNet\Employees.Entities\bin\Debug\net6.0\Employees.Entities.runtimeconfig.json
+E:\универ\dotnet\DotNet\Employees.Entities\bin\Debug\net6.0\Employees.Entities.dll
+E:\универ\dotnet\DotNet\Employees.Entities\bin\Debug\net6.0\Employees.Entities.pdb
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.csproj.AssemblyReference.cache
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.AssemblyInfoInputs.cache
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.AssemblyInfo.cs
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.csproj.CoreCompileInputs.cache
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.dll
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\refint\Employees.Entities.dll
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.pdb
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\Employees.Entities.genruntimeconfig.cache
+E:\универ\dotnet\DotNet\Employees.Entities\obj\Debug\net6.0\ref\Employees.Entities.dll

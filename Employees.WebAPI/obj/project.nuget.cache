@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FNDeHlvZWsgcE6SuoOZHoeE0/Wy0nqBMwRnSJD5PGaj9HCfOyQ/kD6OBBtj+d3SC1QaUXcjef1ZxiI8rHqbk2w==",
+  "dgSpecHash": "d7kokyHt+EtBPmFad22NNyN6Ieq3DzERlu9/2xArygQPpbHeANvfTUSfm+FfXP8LA1VztfC6dbfFOElEVIlpdw==",
   "success": true,
-  "projectFilePath": "E:\\универ\\dot net\\DotNet\\Employees.WebAPI\\Employees.WebAPI.csproj",
+  "projectFilePath": "E:\\универ\\dotnet\\DotNet\\Employees.WebApi\\Employees.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

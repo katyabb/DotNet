@@ -13,3 +13,18 @@ E:\универ\dot net\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.R
 E:\универ\dot net\DotNet\Employees.Repository\obj\Debug\net6.0\refint\Employees.Repository.dll
 E:\универ\dot net\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.pdb
 E:\универ\dot net\DotNet\Employees.Repository\obj\Debug\net6.0\ref\Employees.Repository.dll
+E:\универ\dotnet\DotNet\Employees.Repository\bin\Debug\net6.0\Employees.Repository.deps.json
+E:\универ\dotnet\DotNet\Employees.Repository\bin\Debug\net6.0\Employees.Repository.dll
+E:\универ\dotnet\DotNet\Employees.Repository\bin\Debug\net6.0\Employees.Repository.pdb
+E:\универ\dotnet\DotNet\Employees.Repository\bin\Debug\net6.0\Employees.Entities.dll
+E:\универ\dotnet\DotNet\Employees.Repository\bin\Debug\net6.0\Employees.Entities.pdb
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.csproj.AssemblyReference.cache
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.AssemblyInfoInputs.cache
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.AssemblyInfo.cs
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.csproj.CoreCompileInputs.cache
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.csproj.CopyComplete
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.dll
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\refint\Employees.Repository.dll
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\Employees.Repository.pdb
+E:\универ\dotnet\DotNet\Employees.Repository\obj\Debug\net6.0\ref\Employees.Repository.dll
