@@ -2803,6 +2803,20 @@
         "runtime": {
           "bin/placeholder/Employees.Entities.dll": {}
         }
+      },
+      "Employees.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Employees.Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "compile": {
+          "bin/placeholder/Employees.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employees.Repository.dll": {}
+        }
       }
     }
   },
@@ -8303,11 +8317,17 @@
       "type": "project",
       "path": "../Employees.Entities/Employees.Entities.csproj",
       "msbuildProject": "../Employees.Entities/Employees.Entities.csproj"
+    },
+    "Employees.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Employees.Repository/Employees.Repository.csproj",
+      "msbuildProject": "../Employees.Repository/Employees.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Employees.Entities >= 1.0.0",
+      "Employees.Repository >= 1.0.0",
       "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer >= 5.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.10",
       "Microsoft.EntityFrameworkCore.Proxies >= 6.0.10",
@@ -8354,6 +8374,9 @@
           "projectReferences": {
             "E:\\универ\\dot net\\DotNet\\Employees.Entities\\Employees.Entities.csproj": {
               "projectPath": "E:\\универ\\dot net\\DotNet\\Employees.Entities\\Employees.Entities.csproj"
+            },
+            "E:\\универ\\dot net\\DotNet\\Employees.Repository\\Employees.Repository.csproj": {
+              "projectPath": "E:\\универ\\dot net\\DotNet\\Employees.Repository\\Employees.Repository.csproj"
             }
           }
         }

@@ -9,6 +9,7 @@
       "Employees.WebAPI/1.0.0": {
         "dependencies": {
           "Employees.Entities": "1.0.0",
+          "Employees.Repository": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": "5.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.10",
           "Microsoft.EntityFrameworkCore.Proxies": "6.0.10",
@@ -1521,6 +1522,15 @@
         "runtime": {
           "Employees.Entities.dll": {}
         }
+      },
+      "Employees.Repository/1.0.0": {
+        "dependencies": {
+          "Employees.Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.10"
+        },
+        "runtime": {
+          "Employees.Repository.dll": {}
+        }
       }
     }
   },
@@ -2637,6 +2647,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "Employees.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Employees.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
